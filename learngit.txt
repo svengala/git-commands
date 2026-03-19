@@ -7,6 +7,11 @@ Update File-2 From VSCode
 Update File-2 From VSCode Again
 Update File- From Github site2 Again
 Change in Main Branch.
+<<<<<<< HEAD
 
 Change in ftr branch - 1
 Change in ftr branch - 2
+=======
+Change in Main Branch-2
+Change in ftr branch - 1
+>>>>>>> origin/main
