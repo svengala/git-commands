@@ -31,3 +31,6 @@ GitHub Version -- 4
 
 ---Added from VSCode V4
 VSCode Git Version -- 4
+
+--Implemented My Own FTR.
+This is Feature  done by me.
