@@ -15,3 +15,6 @@ Added in git version-1
 
 
 -- GitHub Version 2
+Added in git version-1
+
+VSCode Git Version -2
